@@ -15,11 +15,13 @@ redirect_from:
 2. 抗肿瘤药物的设计、合成及机制研究
 3. SPECT/PET肿瘤显像剂的设计、合成及活性评价
 
-Educational Background
+教育经历
 ======
-September 2021 - Present            Nanjing University of Posts and Telecommunications            Intelligent Science and Technology | Bachelor's Degree          Major Ranking: 11/62
-Skills Certificates: English Certificates (CET-4, CET-6), proficient in languages such as Python, C, and have relevant experience with development platforms like ISE Design, Jieliuchuang EDA.
-Work Positions: Served as the publicity committee member of Class B210414, proficient in PPT creation and have extensive experience in article writing.
+2015.09-2019.06       聊城大学       生物工程              本科
+2019.09-2022.06       聊城大学       生物化学与分子工程    硕士
+2022.09-2025.06       北京师范大学   药物化学与分子工程    博士
+2025.07-              北京师范大学   物理学               博士后
+
 
 Hands-on experience
 ======
