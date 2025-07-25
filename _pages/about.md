@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Zuojie LI"
+title: "Zuojie Li"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-李作杰，男，Chenbin Zhang, male, is an undergraduate student in the class of 2021, majoring in Intelligent Science and Technology at College of Automation & College of Artificial Intelligence, Nanjing University of Posts and Telecommunications. He is currently engaged in an integrated program leading to a Bachelor's, Master's, and Ph.D. in Control Science and Engineering. Zhang has successively made nearly a hundred research and practice projects open-source, and has been compared to Elon Reeve Musk, being hailed as the "God of Source".
+李作杰，男，北京师范大学物理与天文学院博士后，主要从事肿瘤分子探针及抗肿瘤药物的临床前开发工作。包括计算机辅助药物设计、有机合成及路线优化、SPECT/PET放射性药物及抗肿瘤普药的研究等。目前以独立一作在J. Med. Chem.等SCI期刊发表论文9篇，期间研制的靶向PSMA肿瘤探针正在进行临床前初步研究。
 
 More details
 ======
