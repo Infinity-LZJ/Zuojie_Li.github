@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chenbin ZHANG"
+title: "Zuojie LI"
 author_profile: true
 redirect_from: 
   - /about/
