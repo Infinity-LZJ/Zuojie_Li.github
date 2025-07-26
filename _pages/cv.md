@@ -40,24 +40,23 @@ Skills
   * PET
   * SPECT
 
-Publications
+Publications (1st. author)
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* J Med Chem,  2024, 67(24): 21644-21670.
+* J Med Chem,  2024, 67(24): 21644-21670.
+* J Med Chem,  2021, 64(24): 17920-17935.
+* Mol Pharmaceutics,  2024, 21(10): 5305-5314.
+* Dalton Trans,  2022, 51(33): 12604-12619.
+* Dalton Trans,  2022, 51(33): 12604-12619.
+* Monatsh Chem,  2020, 151(3): 353-367.
+* J Liaocheng Univ , 2020, 33(5): 97-103. 
+* Mini Rew Med Chem , 2025, XX
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+    
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
