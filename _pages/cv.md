@@ -18,18 +18,11 @@ Education
 Work experience
 ======
 * China Resources Snow Breweries，2017.10-2017.11
-  * Hengrui Pharmaceutical​，2018.12-2019.01
-  * NHU Pharmaceutical，2019.02-2019.07
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+ 
+* Hengrui Pharmaceutical​，2018.12-2019.01
+ 
+* NHU Pharmaceutical，2019.02-2019.07
+  
   
 Skills
 ======
