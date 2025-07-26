@@ -5,9 +5,9 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 2025-04-28
-venue: '第十七届全国放射性药物与标记化合物学术交流会'
+venue: '第十七届全国放射性药物与标记化合物学术交流会,西安'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: '李作杰, 张俊波. (2025).'
+citation: '李作杰, 张俊波.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+99mTc标记的异腈葡萄糖类肿瘤分子探针近年来取得了较大的突破，[99mTc]Tc-CN7DG在肿瘤诊断方面具有较高的特异性和灵敏度，SPECT/CT图像对比度清晰，目前已获得国家药品监督管理局批准正式进入临床研究。为了进一步深入对[99mTc]Tc-CN7DG作用机制的探究，本文从计算机辅助药物设计的视角对[99mTc]Tc-CN7DG进行解读，侧重于分子结构的设计、分子与靶蛋白的相互作用、蛋白与分子复合体的能量方面进行理论阐述，进一步加深对[99mTc]Tc-CN7DG在肿瘤中的摄取机制的理解，期望对新型99mTc标记的葡萄糖类肿瘤分子探针的研发具有借鉴意义及推动作用。
