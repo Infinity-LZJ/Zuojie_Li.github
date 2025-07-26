@@ -26,12 +26,19 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer-Aided Drug Design
+  * Homology Modeling 
+  * Design Optimization for Structures
+  * Molecular Dynamics Simulation
+
+* ​Antineoplastic Drugs​​ 
+  * Target screening
+  * Bioactivity Assessment
+  * Mechanistic Study
+
+* Radiopharmaceutical Drugs
+  * PET
+  * SPECT
 
 Publications
 ======
