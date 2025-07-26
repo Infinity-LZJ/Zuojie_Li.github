@@ -11,7 +11,7 @@ redirect_from:
 
 Basic
 ======
-​​* Born: December 1996​
+* Born: December 1996​
 * party: Member of the Communist Party of China
 * Currently employed as a postdoctoral researcher at the School of Physics and Astronomy, Beijing Normal University.
 
