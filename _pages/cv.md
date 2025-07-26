@@ -17,10 +17,9 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* China Resources Snow Breweries，2017.10-2017.11
+  * Hengrui Pharmaceutical​，2018.12-2019.01
+  * NHU Pharmaceutical，2019.02-2019.07
 
 * Fall 2015: Research Assistant
   * Github University
