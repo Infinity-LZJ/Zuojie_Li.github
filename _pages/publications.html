@@ -3,7 +3,12 @@ layout: archive
 title: "Publications(1st or corres.author)  "
 permalink: /publications/
 author_profile: true
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
+
 1. J Med Chem,  2024, 67(24): 21644-21670.
 2. J Med Chem,  2024, 67(23): 21617-21628.
 3. J Med Chem,  2021, 64(24): 17920-17935.
@@ -13,33 +18,4 @@ author_profile: true
 7. Dalton Trans, 2021, 50(1):362-375.
 8. Monatsh Chem,  2020, 151(3): 353-367.
 9. J Liaocheng Univ , 2020, 33(5): 97-103. 
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
 
