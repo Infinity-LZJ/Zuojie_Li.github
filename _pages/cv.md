@@ -48,7 +48,7 @@ Skills
 Publications (1st. author)
 ======
 * J Med Chem,  2024, 67(24): 21644-21670.
-* J Med Chem,  2024, 67(24): 21644-21670.
+* J Med Chem,  2024, 67(23): 21617-21628.
 * J Med Chem,  2021, 64(24): 17920-17935.
 * Mol Pharmaceutics,  2024, 21(10): 5305-5314.
 * Dalton Trans,  2022, 51(33): 12604-12619.
@@ -60,6 +60,7 @@ Publications (1st. author)
 Awards
 ======
 * The First-Class Award for Excellent Graduate Research at Liaocheng University
+* The First Prize for Poster Presentation at the 4th Graduate Academic Conference of the College of Chemistry, Beijing Normal University
 * The Excellent Poster Award at the 17th National Academic Conference on Radiopharmaceuticals and Labeled Compounds，Xian
 * Atomic High-Tech Scholarship for Ph.D. Candidates
 
