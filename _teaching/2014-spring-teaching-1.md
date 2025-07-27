@@ -13,8 +13,3 @@ Molecular Dynamics Simulation Tutorial
 Wait Up
 ======
 
-Heading 2
-======
-
-Heading 3
-======
