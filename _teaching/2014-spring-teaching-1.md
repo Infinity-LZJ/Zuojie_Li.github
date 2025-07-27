@@ -1,14 +1,12 @@
 ---
 title: "分子动力学模拟"
 collection: teaching
-type: ""
+type: "Molecular Dynamics Simulation Tutorial"
 permalink: /teaching/2014-spring-teaching-1
-venue: "" 
-date: 
-location: "B站：Med-Chem"
+venue: "B站" 
+date: 2025-05-01
+location: "Med-Chem"
 ---
-Molecular Dynamics Simulation Tutorial
-
 
 Wait Up
 ======
