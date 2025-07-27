@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "分子动力学模拟"
 collection: teaching
-type: "Undergraduate course"
+type: "Molecular Dynamics Simulation"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "B站"
+date: 2025-05-01
+location: "Med-Chem"
 ---
+Molecular Dynamics Simulation Tutorial
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
