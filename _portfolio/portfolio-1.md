@@ -1,6 +1,6 @@
 ---
 title: "墙报：靶向PSMA的肿瘤显像剂的设计、合成与生物评价研究"
-excerpt: "第十七届全国放射性药物与标记化合物学术交流会优秀壁报<br/><img src='/images/500x300.png'>"
+excerpt: "第十七届全国放射性药物与标记化合物学术交流会优秀壁报<br/><img src='/images/port1.png'>"
 collection: portfolio
 ---
 
