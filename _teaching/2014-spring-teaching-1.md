@@ -1,9 +1,9 @@
 ---
 title: "分子动力学模拟"
 collection: teaching
-type:" "
+type: ""
 permalink: /teaching/2014-spring-teaching-1
-venue:"" 
+venue: "" 
 date: 
 location: "B站：Med-Chem"
 ---
