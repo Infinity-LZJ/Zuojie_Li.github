@@ -50,7 +50,7 @@ Publications (1st. author)
 * J Med Chem,  2024, 67(24): 21644-21670.
 * J Med Chem,  2024, 67(23): 21617-21628.
 * J Med Chem,  2021, 64(24): 17920-17935.
-* Mol Pharmaceutics,  2024, 21(10): 5305-5314.
+* Mol Pharm,  2024, 21(10): 5305-5314.
 * Dalton Trans,  2022, 51(33): 12604-12619.
 * Dalton Trans, 2021, 50(1):362-375.
 * Monatsh Chem,  2020, 151(3): 353-367.
