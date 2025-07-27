@@ -1,7 +1,7 @@
 ---
 title: "Design and Implementation of a Laser Harp"
-collection: conferences
-category: manuscripts
+collection: publications
+category: sWall Poster
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Designed and created a laser harp, programmed the microcontroller to control the production of different musical notes with laser beams and the display of LED lights, and it can play various music and adjust the volume.'
 date: 2023-5-22
