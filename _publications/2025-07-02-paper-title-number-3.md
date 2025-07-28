@@ -1,5 +1,5 @@
 ---
-title: "Ketoprofen and Loxoprofen Platinum(IV) Complexes Displaying Antimetastatic Activities by Inducing DNA Damage, Inflammation Suppression, and Enhanced Immune Response"
+title: "3.Ketoprofen and Loxoprofen Platinum(IV) Complexes Displaying Antimetastatic Activities by Inducing DNA Damage, Inflammation Suppression, and Enhanced Immune Response"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-07-02-paper-title-number-3
