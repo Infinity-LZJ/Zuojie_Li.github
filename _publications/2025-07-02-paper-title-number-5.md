@@ -1,5 +1,5 @@
 ---
-title: "Development of a series of flurbiprofen and zaltoprofen platinum(IV) complexes with anti-metastasis competence targeting COX-2, PD-L1 and DNA"
+title: "5.Development of a series of flurbiprofen and zaltoprofen platinum(IV) complexes with anti-metastasis competence targeting COX-2, PD-L1 and DNA"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-07-02-paper-title-number-5
