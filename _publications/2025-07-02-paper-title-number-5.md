@@ -7,7 +7,7 @@ excerpt: 'Zuojie Li, Linming Li, Wenhuan Zhao, Bin Sun, Zhifang Liu, Min Li
 date: 2022-08-23
 venue: 'Dalton Transactions'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://infinity-lzj.github.io/Zuojie_Li.github/files/paper6.pdf'
 bibtexurl: #'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Dalton Trans. 2022;51(33):12604-12619.'
 ---
