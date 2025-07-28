@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "男"  
   bio              : " 山东泰安 射手座"
   location         : "北京 中国"
-  #employer         : "北京师范大学"
+  employer         : "北京师范大学"
   uri              : # URL
   email            : "ZuojieLi@yeah.net" 
 
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -76,13 +76,13 @@ author:
 publication_category:
   books:
     title: 'Books'
- # manuscripts:
-  #  title: 'Journal Articles'    
+  manuscripts:
+    title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
