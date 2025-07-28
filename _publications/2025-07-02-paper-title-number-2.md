@@ -7,7 +7,7 @@ excerpt: 'Zuojie Li, Xiaojiang Duan, Peiwen Han, Guangxing Yin, Yuhao Jiang , Qi
 date: 2024-12-12
 venue: 'Journal of medicinal chemistry'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://infinity-lzj.github.io/Zuojie_Li.github/files/paper4.pdf'
 bibtexurl: #'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'J Med Chem. 2024;67(23):21617-21628.'
 ---
