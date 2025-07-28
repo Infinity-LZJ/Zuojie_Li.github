@@ -1,5 +1,5 @@
 ---
-title: "4.Synthesis and Evaluation of 99mTc-Labeled DPro-Gly-Containing Tracers Targeting PSMA"
+title: "Synthesis and Evaluation of 99mTc-Labeled DPro-Gly-Containing Tracers Targeting PSMA"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-07-02-paper-title-number-4
