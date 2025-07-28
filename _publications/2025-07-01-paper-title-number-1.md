@@ -7,7 +7,7 @@ excerpt: 'Zuojie Li, Qing Ruan, Yuhao Jiang, Qianna Wang, Guangxing Yin, Junhong
 date: 2024-12-26
 venue: 'Journal of medicinal chemistry'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://infinity-lzj.github.io/Zuojie_Li.github/files/paper3.pdf'
 bibtexurl: #'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'J Med Chem. 2024;67(24):21644-21670.'
 ---
