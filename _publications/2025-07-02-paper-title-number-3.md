@@ -7,7 +7,7 @@ excerpt: 'Zuojie Li, Qingpeng Wang, Linming Li, Yan Chen, Jichun Cui, Min L
 date: 2021-12-23
 venue: 'Journal of medicinal chemistry'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://infinity-lzj.github.io/Zuojie_Li.github/files/paper7.pdf'
 bibtexurl: #'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'J Med Chem, 2021, 64(24): 17920-17935.'
 ---
