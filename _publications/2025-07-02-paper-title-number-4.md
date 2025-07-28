@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-07-02-paper-title-number-4
 excerpt: 'Zuojie Li, Yuhao Jiang, Qing Ruan, Guangxing Yin, Peiwen Han, Xiaojiang Duan, Junbo Zhang'
 date: 2024-10-7
-# venue: 'Molecular Pharmaceutics'
+venue: 'Molecular Pharmaceutics'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: #'http://academicpages.github.io/files/bibtex1.bib'
