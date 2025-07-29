@@ -1,6 +1,6 @@
 ---
-title: "墙报：靶向PSMA的肿瘤显像剂的设计、合成与生物评价研究"
-excerpt: "第十七届全国放射性药物与标记化合物学术交流会优秀壁报<br/><img src='/images/wall1.png' alt='port1' >"
+title: "墙报：新型99mTc标记靶向PSMA的二聚体肿瘤显像剂的设计、合成与生物评价研究"
+excerpt: "第十七届全国放射性药物与标记化合物学术交流会优秀壁报<br/><img src='https://infinity-lzj.github.io/Zuojie_Li.github/files/wallpaper1.png' alt='port1' >"
 collection: portfolio
 ---
 
