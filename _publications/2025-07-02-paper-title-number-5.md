@@ -6,7 +6,7 @@ permalink: /publication/2025-07-02-paper-title-number-5
 excerpt: 'Zuojie Li, Linming Li, Wenhuan Zhao, Bin Sun, Zhifang Liu, Min Liu, Jun Han, Zhengping Wang, Dacheng Li, Qingpeng Wang'
 date: 2022-08-23
 venue: 'Dalton Transactions'
-slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
+slidesurl: 'https://infinity-lzj.github.io/Zuojie_Li.github/files/slides4.pdf'
 paperurl: 'https://infinity-lzj.github.io/Zuojie_Li.github/files/paper6.pdf'
 bibtexurl: #'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Dalton Trans. 2022;51(33):12604-12619.'
