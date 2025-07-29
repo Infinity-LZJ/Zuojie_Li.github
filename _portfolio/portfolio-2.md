@@ -1,6 +1,6 @@
 ---
 title: "墙报：具有肿瘤微环境炎症抑制能力的铂（IV）配合物的设计合成及抗肿瘤机制研究"
-excerpt: "北京师范大学化学学院第四届研究生学术会议墙报一等奖<br/><img src='/images/500x300.png'>"
+excerpt: "北京师范大学化学学院第四届研究生学术会议墙报一等奖<br/><img src='https://infinity-lzj.github.io/Zuojie_Li.github/files/wallpape2.png' alt='error'>"
 collection: portfolio
 ---
 
