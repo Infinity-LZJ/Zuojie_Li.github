@@ -6,7 +6,7 @@ permalink: /publication/2025-07-02-paper-title-number-3
 excerpt: 'Zuojie Li, Qingpeng Wang, Linming Li, Yan Chen, Jichun Cui, Min Liu, Ning Zhang, Zhifang Liu, Jun Han, Zhengping Wang'
 date: 2021-12-23
 venue: 'Journal of medicinal chemistry'
-slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
+slidesurl: 'https://infinity-lzj.github.io/Zuojie_Li.github/files/slides5.pdf'
 paperurl: 'https://infinity-lzj.github.io/Zuojie_Li.github/files/paper7.pdf'
 bibtexurl: #'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'J Med Chem, 2021, 64(24): 17920-17935.'
