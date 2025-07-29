@@ -6,7 +6,7 @@ permalink: /publication/2025-07-02-paper-title-number-4
 excerpt: 'Zuojie Li, Yuhao Jiang, Qing Ruan, Guangxing Yin, Peiwen Han, Xiaojiang Duan, Junbo Zhang'
 date: 2024-10-7
 venue: 'Molecular Pharmaceutics'
-slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
+slidesurl: 'https://infinity-lzj.github.io/Zuojie_Li.github/files/slides3.pdf'
 paperurl: 'https://infinity-lzj.github.io/Zuojie_Li.github/files/paper5.pdf'
 bibtexurl: #'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Mol Pharm. 2024;21(10):5305-5314.'
