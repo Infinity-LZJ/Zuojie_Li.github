@@ -67,3 +67,5 @@ Awards
 About Me
 ======
 Be true to yourself, and respect others.
+
+![personal](https://infinity-lzj.github.io/Zuojie_Li.github/files/personal.jpg "personal")
