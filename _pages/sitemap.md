@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Be true to yourself, and respect others."
+title: "sitemap"
 permalink: /sitemap/
 author_profile: true
 ---
