@@ -1,5 +1,6 @@
 ---
 layout: default
+classes: wide  <!-- 添加这行 -->
 ---
 
 {% include base_path %}
@@ -14,7 +15,7 @@ layout: default
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main">
+<div id="main" role="main" {% if page.classes %}class="{{ page.classes }}"{% endif %}>  <!-- 修改这行 -->
   {% include sidebar.html %}
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
